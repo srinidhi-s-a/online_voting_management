@@ -1,0 +1,11 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,Deep,Male,West,Gandhinagar,abcd,0
+1,10002,Prachi,Female,South,Surat,abcd,0
+2,10003,Het,Male,East,Surat,abcd,0
+3,10004,Shivanshi,Female,East,Gandhinagar,abcd,0
+4,10005,Rohan,Male,North,Bengaluru,abcd,0
+5,10006,sri,Male,north,benga,12345,0
+6,10007,suhas,Male,south,bengalore,12345,0
+7,10008,ss,Male,ss,abc,12345,0
+8,10009,123,Male,k,ok,12345,0
+9,10010,ok,Male,ok,ok,12345,0
